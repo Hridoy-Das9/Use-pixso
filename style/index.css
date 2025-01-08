@@ -91,7 +91,7 @@
     line-height: 14px;
     letter-spacing: 0%;
     text-align: center;
-
+    cursor: pointer;
 }
 
 #card-box {
@@ -191,4 +191,5 @@
     letter-spacing: 0%;
     text-align: center;
     background: rgb(82, 195, 3);
+    cursor: pointer;
 }
