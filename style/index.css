@@ -177,16 +177,17 @@
     line-height: 28px;
     letter-spacing: 0%;
     text-align: center;
+    margin-bottom: 70px;
 
 }
 
 .card .btn {
+   
     padding: 12px 26px 12px 26px;
     color: rgb(255, 255, 255);
     font-family: Work Sans;
     font-size: 18px;
     font-weight: 500;
-    line-height: 23px;
     letter-spacing: 0%;
     text-align: center;
     background: rgb(82, 195, 3);
